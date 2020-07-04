@@ -9,6 +9,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "LevelUpEMS"
-    url: https://levelupems.com
+  - title: "Resources"
+    url: /resources/
+  #- title: "LevelUpEMS"
+  # url: https://levelupems.com
     
