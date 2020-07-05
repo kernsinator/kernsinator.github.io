@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Tyler Kerns"
-  avatar           : "/assets/images/profile-test.png"
+  avatar           : "/assets/images/small-profile-test.png"
   bio              : "I am a CS student, aspiring IT professional, and current paramedic"
   location         : "Minneapolis, MN"
   email            : tyler@tylerkerns.com
