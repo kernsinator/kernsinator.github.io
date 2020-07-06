@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
