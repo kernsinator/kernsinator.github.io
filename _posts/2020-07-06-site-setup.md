@@ -19,4 +19,4 @@ I had one goal from the beginning that was not covered in the above tutorial. Th
 
 Github Pages allows you to host from a repo with the url "username.github.io". It is also possible, with a little effort, to use a custom domain. Github has a section in the [Docs](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site) that walks you through that proess. I encountered no difficulties whatsoever. 
 
-Choosing a domain name was easy, as I used my own name. Choosing a domain registrar, on the other hand, took some research
+Choosing a domain name was easy, as I used my own name. Choosing a domain registrar, on the other hand, took some research. With my lack of experience on the topic, I found Google Domains to be a good choice. Google Domains has straightforward pricing and plenty of documentation to help you through any sticking points.
