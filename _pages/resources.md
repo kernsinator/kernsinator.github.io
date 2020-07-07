@@ -22,5 +22,6 @@ Collection of videos
 - defcon
 - other
 - [MIT](https://missing.csail.mit.edu/)
+[this](http://jmcglone.com/guides/github-pages/)
 
 [resume](../CNAME)
