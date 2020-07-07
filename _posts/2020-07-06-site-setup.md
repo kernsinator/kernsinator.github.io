@@ -6,6 +6,7 @@ categories: web
 tags: jekyll web introduction
 header:
     image: /assets/images/jekyll-logo2.png
+teaser: /assets/images/jekyll-logo2.png
 ---
 
 Building this site has been a goal of mine for several months. While working on other projects, I had come across static site generators, even building a few sites using Hugo. At the start of this year I also began to familiarize myself with Git and Github. In the end, I settled on a combination of these tools.
@@ -18,4 +19,4 @@ I had one goal from the beginning that was not covered in the above tutorial. Th
 
 Github Pages allows you to host from a repo with the url "username.github.io". It is also possible, with a little effort, to use a custom domain. Github has a section in the [Docs](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site) that walks you through that proess. I encountered no difficulties whatsoever. 
 
-Choosing a domain name was easy, as I used my own name. Choosing a domain registrar, on the other hand, again took some research
+Choosing a domain name was easy, as I used my own name. Choosing a domain registrar, on the other hand, took some research
