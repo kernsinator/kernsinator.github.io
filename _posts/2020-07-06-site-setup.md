@@ -6,7 +6,7 @@ categories: web
 tags: jekyll web introduction
 header:
     image: /assets/images/jekyll-logo2.png
-teaser: /assets/images/jekyll-logo2.png
+    teaser: /assets/images/jekyll-logo2.png
 ---
 
 Building this site has been a goal of mine for several months. While working on other projects, I had come across static site generators, even building a few sites using Hugo. At the start of this year I also began to familiarize myself with Git and Github. In the end, I settled on a combination of these tools.
