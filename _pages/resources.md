@@ -27,4 +27,5 @@ Collection of videos or channels organized by category
 **General CS Topics**
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 
-[resume](../test-resume)
+[resume](../test-resume.odt)
+[resume also](../test-resume)
