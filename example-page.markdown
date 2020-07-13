@@ -86,3 +86,5 @@ public boolean makeMove() {
         return moveMade;
     }
 {% endhighlight %}
+
+Add resume download link
