@@ -5,7 +5,6 @@ date:   2020-07-06 23:47:00 -0500
 categories: web
 tags: jekyll web introduction
 header:
-    image: /assets/images/jekyll-logo2.png
     teaser: /assets/images/jekyll-logo2.png
 ---
 
@@ -19,4 +18,6 @@ I had one goal from the beginning that was not covered in the above tutorial. Th
 
 Github Pages allows you to host from a repo with the url "username.github.io". It is also possible, with a little effort, to use a custom domain. Github has a section in the [Docs](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site) that walks you through that proess. I encountered no difficulties whatsoever. 
 
-Choosing a domain name was easy, as I used my own name. Choosing a domain registrar, on the other hand, took some research. With my lack of experience on the topic, I found Google Domains to be a good choice. Google Domains has straightforward pricing and plenty of documentation to help you through any sticking points.
+Choosing a domain name was easy, as I used my own name. Choosing a domain registrar, on the other hand, took some research. With my lack of experience on the topic, I found [Google Domains](https://domains.google/) to be a good choice. Google Domains has straightforward pricing and plenty of documentation to help you through any sticking points.
+
+All in all, creating and deploying a website was made not only possible, but relatively easy using the tools I've discussed here. Not only did I learn a good deal about deploying static sites, but I began to  touch on topics that could improve future projects. This has led me to my next goal of hosting a webapp on my own virtualized hardware.
