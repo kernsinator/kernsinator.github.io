@@ -22,7 +22,7 @@ Collection of videos or channels organized by category
 - [The video that made subnetting "click"](https://youtu.be/rs39FWDhzDs)
 
 **Web Development**
-[Github Pages Tutorial](http://jmcglone.com/guides/github-pages/)
+- [Github Pages Tutorial](http://jmcglone.com/guides/github-pages/)
 
 **General CS Topics**
 - [Computerphile](https://www.youtube.com/user/Computerphile)
