@@ -12,4 +12,4 @@ While most content found here will be in the form of blog posts, I will be maint
 
 Any questions or comments may be directed to myself: tyler@tylerkerns.com
 
-This site was built using [Jekyll](https://jekyllrb.com/), a static site generator with [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), a Jekyll theme. Hosted by Github Pages.
+This site was built using [Jekyll](https://jekyllrb.com/), a static site generator with [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), a Jekyll theme. Hosted by Github Pages. 
