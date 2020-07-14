@@ -10,6 +10,7 @@ toc_icon: "cog"  # corresponding Font Awesome icon name (without fa prefix)
 ## Online courses
 - [Google IT Support Professional Course](https://www.coursera.org/professional-certificates/google-it-support)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Interactive Git Tutorial](https://learngitbranching.js.org/)
 
 ## Books
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
