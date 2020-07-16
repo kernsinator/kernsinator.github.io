@@ -25,5 +25,6 @@ Collection of videos or channels organized by category
 **Web Development**
 - [Github Pages Tutorial](http://jmcglone.com/guides/github-pages/)
 
-**General CS Topics**
+**General Topics**
 - [Computerphile](https://www.youtube.com/user/Computerphile)
+- [PowerShell tutorial and links](https://github.com/PowerShell/PowerShell/blob/master/docs/learning-powershell/README.md)
