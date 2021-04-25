@@ -75,8 +75,6 @@ The last major step here is to set up FTP on the server. This will allow me to r
 ![Test page](/assets/images/first_page.png)
 *By some miracle, this also worked on the first try*
 
+**Mission Accomplished!**
 
-
-
-
-Further projects: File server...host apps. Should I write about ssh and ftp and all that?
+I now have a working intranet site on my home network. The next steps will be to increase my knowledge of HTML, CSS, and Javascript in order to build something new from scratch. For now I will use this site to embed a my work schedule for easy access.
