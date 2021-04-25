@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Tyler Kerns"
   avatar           : "/assets/images/small-profile-test.png"
-  bio              : "I am an IT student, aspiring IT professional, and current paramedic"
+  bio              : "I am an IT student, aspiring IT professional, and paramedic"
   location         : "Minneapolis, MN"
   email            : tyler@tylerkerns.com
   links:
@@ -116,7 +116,7 @@ author:
       url: "https://www.linkedin.com/in/tyler-kerns-392182164"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kernsinator"
+      # url: "https://twitter.com/kernsinator"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
