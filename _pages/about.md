@@ -10,6 +10,10 @@ My name is Tyler Kerns. I started this site initially to document my process as 
 
 While most content found here will be in the form of blog posts, I will be maintaining an organized page of resources that I have utilized along the way.
 
+## Other Online Projects ##
+
+[FrostyKernel](https://www.frostykernel.com/)
+
 Any questions or comments may be directed to myself: tyler@tylerkerns.com
 
 This site was built using [Jekyll](https://jekyllrb.com/), a static site generator with [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), a Jekyll theme. Hosted by Github Pages.
