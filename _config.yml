@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My IT Journey"
+title                    : "A Bit at a Time"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tyler Kerns"
-description              : "My personal site describing my attempts to start in IT"
+description              : "My personal site describing my attempts to start in IT and Web Development"
 url                      : "https://tylerkerns.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kernsinator/kernsinator.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Tyler Kerns"
   avatar           : "/assets/images/patches1.jpeg"
-  bio              : "I am an IT student, aspiring IT professional, and paramedic"
+  bio              : "I am an IT student and paramedic with an rapidly growing interest in web development"
   location         : "Minneapolis, MN"
   email            : tyler@tylerkerns.com
   links:
@@ -113,10 +113,10 @@ author:
       url: "https://github.com/kernsinator"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tyler-kerns-392182164"
+      #url: "https://www.linkedin.com/in/tyler-kerns-392182164"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/kernsinator"
+      url: "https://twitter.com/kernsinator"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/kernsinator"
+      url: "https://twitter.com/kernsinator"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -144,7 +144,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tyler-kerns-392182164"
+      #url: "https://www.linkedin.com/in/tyler-kerns-392182164"
 
 
 # Reading Files
