@@ -12,7 +12,7 @@ While most content found here will be in the form of blog posts, I will be maint
 
 ## Other Online Projects ##
 
-<!--[FrostyKernel](https://www.frostykernel.com/)-->
+[FrostyKernel - Linguistic puzzles](https://www.frostykernel.com/)
 
 Any questions or comments may be directed to myself: tyler@tylerkerns.com
 
