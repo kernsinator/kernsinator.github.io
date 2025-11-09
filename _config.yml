@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Crisco Kid's Crib
+author:
+  name: Tyler Kerns
+  email: tyler@tylerkerns.com
+description: "Tyler's experience with technology, programming, and life."
+
+# Build settings
+remote_theme: jekyll/minima
